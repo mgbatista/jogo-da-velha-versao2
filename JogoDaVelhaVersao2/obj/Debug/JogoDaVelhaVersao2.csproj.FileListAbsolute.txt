@@ -1,0 +1,7 @@
+C:\Users\maiar\source\repos\JogoDaVelhaVersao2\JogoDaVelhaVersao2\bin\Debug\JogoDaVelhaVersao2.exe.config
+C:\Users\maiar\source\repos\JogoDaVelhaVersao2\JogoDaVelhaVersao2\bin\Debug\JogoDaVelhaVersao2.exe
+C:\Users\maiar\source\repos\JogoDaVelhaVersao2\JogoDaVelhaVersao2\bin\Debug\JogoDaVelhaVersao2.pdb
+C:\Users\maiar\source\repos\JogoDaVelhaVersao2\JogoDaVelhaVersao2\obj\Debug\JogoDaVelhaVersao2.csprojAssemblyReference.cache
+C:\Users\maiar\source\repos\JogoDaVelhaVersao2\JogoDaVelhaVersao2\obj\Debug\JogoDaVelhaVersao2.csproj.CoreCompileInputs.cache
+C:\Users\maiar\source\repos\JogoDaVelhaVersao2\JogoDaVelhaVersao2\obj\Debug\JogoDaVelhaVersao2.exe
+C:\Users\maiar\source\repos\JogoDaVelhaVersao2\JogoDaVelhaVersao2\obj\Debug\JogoDaVelhaVersao2.pdb
